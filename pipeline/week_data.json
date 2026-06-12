@@ -1,6 +1,6 @@
 {
   "window_start": "2026-06-06T15:00:00+05:30",
-  "generated_at": "2026-06-12T06:51:54.615Z",
+  "generated_at": "2026-06-12T13:38:39.566163+05:30",
   "sellers": [
     {
       "name": [
@@ -1022,6 +1022,63 @@
               "₹300 / 500 ग्रॅम",
               "",
               ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": [
+        "Vishwas Appa Undare",
+        "विश्वास आप्पा उंदरे"
+      ],
+      "by": [
+        "Vashi, Dharashiv (Osmanabad) · via Gautam Kamble dada",
+        "वाशी, धाराशीव (उस्मानाबाद) · गौतम कांबळे दादांमार्फत"
+      ],
+      "tags": [
+        [
+          "Mangoes",
+          "आंबे",
+          "mango"
+        ],
+        [
+          "FCFS",
+          "FCFS",
+          "veg"
+        ]
+      ],
+      "order": [
+        "FCFS · sent via Gautam Kamble dada ☎ 8669140599",
+        "FCFS · गौतम कांबळे दादांमार्फत ☎ 8669140599"
+      ],
+      "groups": [
+        {
+          "head": null,
+          "items": [
+            [
+              "Ratna mango",
+              "रत्ना आंबा",
+              "₹200 / kg",
+              "₹200 / किलो",
+              "",
+              ""
+            ],
+            [
+              "Belya mango",
+              "बेल्या आंबा",
+              "₹200 / kg",
+              "₹200 / किलो",
+              "",
+              ""
+            ],
+            [
+              "Gavran goti mango",
+              "गावरान गोटी आंबा",
+              "₹150 / kg",
+              "₹150 / किलो",
+              "For sucking",
+              "चोखून खाण्यासाठी"
             ]
           ]
         }
