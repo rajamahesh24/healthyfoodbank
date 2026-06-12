@@ -1,0 +1,5 @@
+# HealthyFoodBank Susgaon — static site
+# index.html is pre-built and committed; Netlify just publishes the repo root.
+[build]
+  publish = "."
+  command = ""
