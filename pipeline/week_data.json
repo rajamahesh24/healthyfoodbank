@@ -19,8 +19,8 @@
         ]
       ],
       "order": [
-        "Order via Google Form (link shared in group)",
-        "गुगल फॉर्मद्वारे ऑर्डर करा (लिंक ग्रुपवर)"
+        "Order via the form below",
+        "खालील फॉर्मद्वारे ऑर्डर करा"
       ],
       "groups": [
         {
@@ -44,7 +44,8 @@
             ]
           ]
         }
-      ]
+      ],
+      "form": "https://forms.gle/YgEDiMaXL4xW3qnCA"
     },
     {
       "name": [

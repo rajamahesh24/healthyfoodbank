@@ -59,6 +59,9 @@ def main():
 
     date_en, date_mr = fmt_date(target_saturday)
     range_en, range_mr = fmt_range(window_start.date(), now.date())
+    _t = now.strftime("%I:%M %p").lstrip("0")
+    build_en = f"{now.day} {MONTHS_EN[now.month-1]} {now.year}, {_t} IST"
+    build_mr = f"{now.day} {MONTHS_MR[now.month-1]} {now.year}, {_t} IST"
 
     data = json.loads((HERE / "week_data.json").read_text(encoding="utf-8"))
     sellers = data.get("sellers", [])
@@ -69,7 +72,9 @@ def main():
             .replace("__DATE_EN__", date_en)
             .replace("__DATE_MR__", date_mr)
             .replace("__RANGE_EN__", range_en)
-            .replace("__RANGE_MR__", range_mr))
+            .replace("__RANGE_MR__", range_mr)
+            .replace("__BUILD_EN__", build_en)
+            .replace("__BUILD_MR__", build_mr))
 
     (ROOT / "index.html").write_text(html, encoding="utf-8")
     print(f"[build] now(IST)={now:%Y-%m-%d %H:%M}")
