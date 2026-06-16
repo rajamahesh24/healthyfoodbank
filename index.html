@@ -113,8 +113,8 @@
 // item = [nameEN, nameMR, priceEN, priceMR, noteEN, noteMR]
 // group = { head:[EN,MR]|null, items:[...] }
 // tag   = [EN, MR, cssClass]
-const sellers = [];
-const BUILD_STAMP = { en: "15 June 2026, 5:11 PM IST", mr: "15 जून 2026, 5:11 PM IST" };
+const sellers = [{"name": ["Anandi Kulkarni", "आनंदी कुलकर्णी"], "by": ["Homemade & handmade, from group farmers' produce", "घरगुती व हस्तनिर्मित, समूहातील शेतकऱ्यांच्या मालापासून"], "tags": [["Flours & grains", "पीठे व धान्य", "grain"], ["Sweets & value-added", "गोडधोड व मूल्यवर्धित", "value"]], "order": ["Order before Tuesday 10 AM via the form. Pay via PhonePe/GPay: 9011041140", "मंगळवार सकाळी १० च्या आत फॉर्मवरून ऑर्डर करा. PhonePe/GPay: 9011041140"], "form": "https://forms.gle/qt46NHHzeV6snCZ1A", "groups": [{"head": null, "items": [["Khapli wheat cheek", "खपली गव्हाचा चीक", "₹110 / 200 g", "₹110 / 200 ग्रॅम", "", ""], ["Mug jaggery ladoo", "मुगाचे गुळाचे लाडू", "₹180 / 200 g", "₹180 / 200 ग्रॅम", "Mug dal + jaggery powder, ghee & jayphal", "मूग डाळ + गूळ पूड, तूप व जायफळ"], ["Ghavan flour", "घावनाचे पीठ", "₹90 / 500 g", "₹90 / 500 ग्रॅम", "Rice & pohe", "तांदूळ व पोहे"], ["Amboli flour", "आंबोळीचे पीठ", "₹110 / 500 g", "₹110 / 500 ग्रॅम", "Rice, udid, mug, harbhara dal, methidana", "तांदूळ, उडीद, मूग, हरभरा डाळ, मेथीदाणे"], ["Mix Dhokla flour", "मिक्स ढोकळ्याचे पीठ", "₹130 / 500 g", "₹130 / 500 ग्रॅम", "Rice, chana, udid, mug dal & pohe", "तांदूळ, चणा, उडीद, मूग डाळ व पोहे"], ["Thalipeeth bhajani", "थालीपीठ भाजणी", "₹140 / 500 g", "₹140 / 500 ग्रॅम", "", ""], ["Mix Bhakari flour", "मिक्स भाकरीचे पीठ", "₹80 / 500 g", "₹80 / 500 ग्रॅम", "", ""], ["Sattu flour", "सत्तू पीठ", "₹170 / 500 g", "₹170 / 500 ग्रॅम", "", ""], ["Sattu flour ladoo", "सत्तू पिठाचे लाडू", "₹175 / 200 g", "₹175 / 200 ग्रॅम", "", ""], ["Anarase (jaggery)", "अनारसे (गुळ)", "₹185 / 125 g", "₹185 / 125 ग्रॅम", "", ""], ["Khapli wheat kheer", "खपली गव्हाची खीर", "₹125 / 250 g", "₹125 / पाव किलो", "", ""], ["Suraliwadi", "सुरळीची वडी", "₹130 / 200 g", "₹130 / 200 ग्रॅम", "", ""], ["Kairi Panha", "कैरी पन्हं", "₹75 / 500 ml · ₹30 / 200 ml glass", "₹75 / 500 मिली · ₹30 / 200 मिली ग्लास", "", ""], ["Puranpoli", "पुरणपोळी", "₹100 / 2 pcs", "₹100 / 2 नग", "", ""], ["Ready Puran (for puranpoli)", "तयार पुरण (पुरणपोळीसाठी)", "₹275 / 500 g", "₹275 / 500 ग्रॅम", "", ""], ["Metkoot", "मेतकूट", "₹65 / 100 g", "₹65 / 100 ग्रॅम", "", ""]]}]}];
+const BUILD_STAMP = { en: "16 June 2026, 5:11 PM IST", mr: "16 जून 2026, 5:11 PM IST" };
 
 const UI = {
   en:{
@@ -125,7 +125,7 @@ const UI = {
     sellersWord:"sellers",
     cats:"Mangoes · Grains · Veg · Pulses · Bakery · Value-added",
     showAll:(n)=>`Show all ${n} items`,
-    footSrc:"Compiled from the HealthyFoodBank Susgaon WhatsApp group · posts from 13–15 June 2026.",
+    footSrc:"Compiled from the HealthyFoodBank Susgaon WhatsApp group · posts from 13–16 June 2026.",
     footNote:"Prices and availability are as posted by sellers and may change. Items marked FCFS are limited — confirm with the seller.",
     updated:"Last updated ",
     empty:"No produce posted yet for this Saturday — check back soon. 🌱",
@@ -139,7 +139,7 @@ const UI = {
     sellersWord:"विक्रेते",
     cats:"आंबे · धान्य · भाज्या · डाळी · बेकरी · प्रक्रियायुक्त",
     showAll:(n)=>`सर्व ${n} वस्तू पाहा`,
-    footSrc:"HealthyFoodBank Susgaon व्हॉट्सअ‍ॅप ग्रुपमधून संकलित · 13–15 जून 2026 च्या पोस्ट.",
+    footSrc:"HealthyFoodBank Susgaon व्हॉट्सअ‍ॅप ग्रुपमधून संकलित · 13–16 जून 2026 च्या पोस्ट.",
     footNote:"किमती व उपलब्धता विक्रेत्यांनी पोस्ट केल्याप्रमाणे आहेत; बदलू शकतात. FCFS वस्तू मर्यादित — विक्रेत्याकडे खात्री करा.",
     updated:"शेवटचे अपडेट ",
     empty:"या शनिवारसाठी अजून कुणी माल पोस्ट केलेला नाही — थोड्या वेळाने पुन्हा पाहा. 🌱",
