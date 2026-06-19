@@ -1,303 +1,290 @@
 {
   "window_start": "2026-06-13T15:00:00+05:30",
-  "generated_at": "2026-06-18T17:11:06+05:30",
+  "generated_at": "2026-06-19T17:15:00+05:30",
   "sellers": [
     {
-      "name": [
-        "Anandi Kulkarni",
-        "आनंदी कुलकर्णी"
-      ],
-      "by": [
-        "Homemade & handmade, from group farmers' produce",
-        "घरगुती व हस्तनिर्मित, समूहातील शेतकऱ्यांच्या मालापासून"
-      ],
-      "tags": [
-        [
-          "Flours & grains",
-          "पीठे व धान्य",
-          "grain"
-        ],
-        [
-          "Sweets & value-added",
-          "गोडधोड व मूल्यवर्धित",
-          "value"
-        ]
-      ],
-      "order": [
-        "Order before Tuesday 10 AM via the form. Pay via PhonePe/GPay: 9011041140",
-        "मंगळवार सकाळी १० च्या आत फॉर्मवरून ऑर्डर करा. PhonePe/GPay: 9011041140"
-      ],
+      "name": ["Anandi Kulkarni","आनंदी कुलकर्णी"],
+      "by": ["Homemade & handmade, from group farmers' produce","घरगुती व हस्तनिर्मित, समूहातील शेतकऱ्यांच्या मालापासून"],
+      "tags": [["Flours & grains","पीठे व धान्य","grain"],["Sweets & value-added","गोडधोड व मूल्यवर्धित","value"]],
+      "order": ["Order before Tuesday 10 AM via the form. Pay via PhonePe/GPay: 9011041140","मंगळवार सकाळी १० च्या आत फॉर्मवरून ऑर्डर करा. PhonePe/GPay: 9011041140"],
       "form": "https://forms.gle/qt46NHHzeV6snCZ1A",
-      "groups": [
-        {
-          "head": null,
-          "items": [
-            ["Khapli wheat cheek","खपली गव्हाचा चीक","₹110 / 200 g","₹110 / 200 ग्रॅम","",""],
-            ["Mug jaggery ladoo","मुगाचे गुळाचे लाडू","₹180 / 200 g","₹180 / 200 ग्रॅम","Mug dal + jaggery powder, ghee & jayphal","मूग डाळ + गूळ पूड, तूप व जायफळ"],
-            ["Ghavan flour","घावनाचे पीठ","₹90 / 500 g","₹90 / 500 ग्रॅम","Rice & pohe","तांदूळ व पोहे"],
-            ["Amboli flour","आंबोळीचे पीठ","₹110 / 500 g","₹110 / 500 ग्रॅम","Rice, udid, mug, harbhara dal, methidana","तांदूळ, उडीद, मूग, हरभरा डाळ, मेथीदाणे"],
-            ["Mix Dhokla flour","मिक्स ढोकळ्याचे पीठ","₹130 / 500 g","₹130 / 500 ग्रॅम","Rice, chana, udid, mug dal & pohe","तांदूळ, चणा, उडीद, मूग डाळ व पोहे"],
-            ["Thalipeeth bhajani","थालीपीठ भाजणी","₹140 / 500 g","₹140 / 500 ग्रॅम","",""],
-            ["Mix Bhakari flour","मिक्स भाकरीचे पीठ","₹80 / 500 g","₹80 / 500 ग्रॅम","",""],
-            ["Sattu flour","सत्तू पीठ","₹170 / 500 g","₹170 / 500 ग्रॅम","",""],
-            ["Sattu flour ladoo","सत्तू पिठाचे लाडू","₹175 / 200 g","₹175 / 200 ग्रॅम","",""],
-            ["Anarase (jaggery)","अनारसे (गुळ)","₹185 / 125 g","₹185 / 125 ग्रॅम","",""],
-            ["Khapli wheat kheer","खपली गव्हाची खीर","₹125 / 250 g","₹125 / पाव किलो","",""],
-            ["Suraliwadi","सुरळीची वडी","₹130 / 200 g","₹130 / 200 ग्रॅम","",""],
-            ["Kairi Panha","कैरी पन्हं","₹75 / 500 ml · ₹30 / 200 ml glass","₹75 / 500 मिली · ₹30 / 200 मिली ग्लास","",""],
-            ["Puranpoli","पुरणपोळी","₹100 / 2 pcs","₹100 / 2 नग","",""],
-            ["Ready Puran (for puranpoli)","तयार पुरण (पुरणपोळीसाठी)","₹275 / 500 g","₹275 / 500 ग्रॅम","",""],
-            ["Metkoot","मेतकूट","₹65 / 100 g","₹65 / 100 ग्रॅम","",""]
-          ]
-        }
-      ]
+      "groups": [{"head": null,"items": [
+        ["Khapli wheat cheek","खपली गव्हाचा चीक","₹110 / 200 g","₹110 / 200 ग्रॅम","",""],
+        ["Mug jaggery ladoo","मुगाचे गुळाचे लाडू","₹180 / 200 g","₹180 / 200 ग्रॅम","Mug dal + jaggery powder, ghee & jayphal","मूग डाळ + गूळ पूड, तूप व जायफळ"],
+        ["Ghavan flour","घावनाचे पीठ","₹90 / 500 g","₹90 / 500 ग्रॅम","Rice & pohe","तांदूळ व पोहे"],
+        ["Amboli flour","आंबोळीचे पीठ","₹110 / 500 g","₹110 / 500 ग्रॅम","Rice, udid, mug, harbhara dal, methidana","तांदूळ, उडीद, मूग, हरभरा डाळ, मेथीदाणे"],
+        ["Mix Dhokla flour","मिक्स ढोकळ्याचे पीठ","₹130 / 500 g","₹130 / 500 ग्रॅम","Rice, chana, udid, mug dal & pohe","तांदूळ, चणा, उडीद, मूग डाळ व पोहे"],
+        ["Thalipeeth bhajani","थालीपीठ भाजणी","₹140 / 500 g","₹140 / 500 ग्रॅम","",""],
+        ["Mix Bhakari flour","मिक्स भाकरीचे पीठ","₹80 / 500 g","₹80 / 500 ग्रॅम","",""],
+        ["Sattu flour","सत्तू पीठ","₹170 / 500 g","₹170 / 500 ग्रॅम","",""],
+        ["Sattu flour ladoo","सत्तू पिठाचे लाडू","₹175 / 200 g","₹175 / 200 ग्रॅम","",""],
+        ["Anarase (jaggery)","अनारसे (गुळ)","₹185 / 125 g","₹185 / 125 ग्रॅम","",""],
+        ["Khapli wheat kheer","खपली गव्हाची खीर","₹125 / 250 g","₹125 / पाव किलो","",""],
+        ["Suraliwadi","सुरळीची वडी","₹130 / 200 g","₹130 / 200 ग्रॅम","",""],
+        ["Kairi Panha","कैरी पन्हं","₹75 / 500 ml · ₹30 / 200 ml glass","₹75 / 500 मिली · ₹30 / 200 मिली ग्लास","",""],
+        ["Puranpoli","पुरणपोळी","₹100 / 2 pcs","₹100 / 2 नग","",""],
+        ["Ready Puran (for puranpoli)","तयार पुरण (पुरणपोळीसाठी)","₹275 / 500 g","₹275 / 500 ग्रॅम","",""],
+        ["Metkoot","मेतकूट","₹65 / 100 g","₹65 / 100 ग्रॅम","",""]
+      ]}]
     },
     {
-      "name": [
-        "Madhav Ghule (Anjali's)",
-        "माधव घुले (अंजली'स)"
-      ],
-      "by": [
-        "Farm produce, baked goods & millets",
-        "शेत उत्पादने, बेकरी व तृणधान्ये"
-      ],
-      "tags": [
-        ["Grains & millets","धान्य व तृणधान्ये","grain"],
-        ["Baked goods","बेकरी उत्पादने","value"]
-      ],
-      "order": [
-        "All items on FCFS — Saturday delivery",
-        "सर्व वस्तू FCFS आधारावर — शनिवारी वितरण"
-      ],
+      "name": ["Madhav Ghule (Anjali's)","माधव घुले (अंजली'स)"],
+      "by": ["Farm produce, baked goods & millets","शेत उत्पादने, बेकरी व तृणधान्ये"],
+      "tags": [["Grains & millets","धान्य व तृणधान्ये","grain"],["Baked goods","बेकरी उत्पादने","value"]],
+      "order": ["All items on FCFS — Saturday delivery","सर्व वस्तू FCFS आधारावर — शनिवारी वितरण"],
       "form": "",
       "groups": [
-        {
-          "head": ["Farm Produce","शेत उत्पादने"],
-          "items": [
-            ["Bansi wheat","बन्सी गहू","₹80 / kg","₹80 / किलो","",""],
-            ["Bansi wheat flour","बन्सी गहू पीठ","₹110 / kg","₹110 / किलो","",""],
-            ["Khapli (Emmer) wheat","खपली गहू","₹120 / kg","₹120 / किलो","",""],
-            ["Khapli (Emmer) wheat flour","खपली गहू पीठ","₹150 / kg","₹150 / किलो","",""],
-            ["Khapli wheat rava / suji","खपली गहू रवा / सुजी","₹50 / 250 g","₹50 / पाव किलो","",""],
-            ["Khapli wheat daliya","खपली गहू दलिया","₹50 / 250 g","₹50 / पाव किलो","",""]
-          ]
-        },
-        {
-          "head": ["Baked Products","बेकरी उत्पादने"],
-          "items": [
-            ["Khapli wheat jaggery cookies","खपली गहू गुळाच्या कुकीज","₹140 / 200 g pack","₹140 / 200 ग्रॅम पॅक","",""],
-            ["Khapli jaggery coconut oil cookies","खपली गूळ खोबरेल तेल कुकीज","₹130 / 200 g pack","₹130 / 200 ग्रॅम पॅक","",""],
-            ["Toast / Rusk (Khapli wheat)","टोस्ट / रस्क (खपली गहू)","₹50 / 100 g pack","₹50 / 100 ग्रॅम पॅक","",""],
-            ["Bread (100% Khapli wheat flour)","ब्रेड (१००% खपली गहू पीठ)","₹120 / loaf","₹120 / नग","",""],
-            ["Pizza base (Khapli wheat flour)","पिझ्झा बेस (खपली गहू पीठ)","₹90 / pack of 3","₹90 / 3 नग पॅक","",""],
-            ["Ladi Pav (Khapli wheat flour)","लादी पाव (खपली गहू पीठ)","₹50 / pack of 6","₹50 / 6 नग पॅक","",""],
-            ["Chocolate Cake (Khapli wheat, eggless)","चॉकलेट केक (खपली गहू, अंडयाशिवाय)","₹60 / pack","₹60 / पॅक","Eggless — wheat flour, ghee, cocoa, milk, curd","अंडयाशिवाय — गहू पीठ, तूप, कोको, दूध, दही"]
-          ]
-        },
-        {
-          "head": ["Millets — whole (per 500 g)","तृणधान्ये — संपूर्ण (प्रति 500 ग्रॅम)"],
-          "items": [
-            ["Foxtail millet (Kang / Rala)","फॉक्सटेल मिलेट (कांग / राळा)","₹80","₹80","",""],
-            ["Koda millet (Kodra)","कोडो मिलेट (कोद्रा)","₹80","₹80","",""],
-            ["Barnyard millet (Shamul / Sama)","बार्नयार्ड मिलेट (शामुळ / साम)","₹80","₹80","",""],
-            ["Little millet (Sava / Halvi / Vari)","लिटल मिलेट (सावा / हलवी / वरी)","₹80","₹80","",""],
-            ["Browntop millet (Makra / Murat)","ब्राउनटॉप मिलेट (माकरा / मुरत)","₹120","₹120","",""],
-            ["Finger millet (Nachni)","नाचणी","₹40","₹40","",""]
-          ]
-        },
-        {
-          "head": ["Millet flour — activated (per 500 g)","तृणधान्य पीठ — प्रक्रियायुक्त (प्रति 500 ग्रॅम)"],
-          "items": [
-            ["Foxtail millet flour","फॉक्सटेल मिलेट पीठ","₹100","₹100","",""],
-            ["Koda millet flour","कोडो मिलेट पीठ","₹100","₹100","",""],
-            ["Barnyard millet flour","बार्नयार्ड मिलेट पीठ","₹100","₹100","",""],
-            ["Little millet flour","लिटल मिलेट पीठ","₹100","₹100","",""],
-            ["Finger millet flour (Nachni)","नाचणी पीठ","₹60","₹60","",""]
-          ]
-        },
-        {
-          "head": ["Millet rava — activated (per 500 g)","तृणधान्य रवा — प्रक्रियायुक्त (प्रति 500 ग्रॅम)"],
-          "items": [
-            ["Foxtail millet rava","फॉक्सटेल मिलेट रवा","₹120","₹120","",""],
-            ["Koda millet rava","कोडो मिलेट रवा","₹120","₹120","",""],
-            ["Barnyard millet rava","बार्नयार्ड मिलेट रवा","₹120","₹120","",""],
-            ["Little millet rava","लिटल मिलेट रवा","₹120","₹120","",""]
-          ]
-        },
-        {
-          "head": null,
-          "items": [
-            ["Millet Khakra","मिलेट खाकरा","₹50 / pack","₹50 / पॅक","",""]
-          ]
-        }
+        {"head": ["Farm Produce","शेत उत्पादने"],"items": [
+          ["Bansi wheat","बन्सी गहू","₹80 / kg","₹80 / किलो","",""],
+          ["Bansi wheat flour","बन्सी गहू पीठ","₹110 / kg","₹110 / किलो","",""],
+          ["Khapli (Emmer) wheat","खपली गहू","₹120 / kg","₹120 / किलो","",""],
+          ["Khapli (Emmer) wheat flour","खपली गहू पीठ","₹150 / kg","₹150 / किलो","",""],
+          ["Khapli wheat rava / suji","खपली गहू रवा / सुजी","₹50 / 250 g","₹50 / पाव किलो","",""],
+          ["Khapli wheat daliya","खपली गहू दलिया","₹50 / 250 g","₹50 / पाव किलो","",""]
+        ]},
+        {"head": ["Baked Products","बेकरी उत्पादने"],"items": [
+          ["Khapli wheat jaggery cookies","खपली गहू गुळाच्या कुकीज","₹140 / 200 g pack","₹140 / 200 ग्रॅम पॅक","",""],
+          ["Khapli jaggery coconut oil cookies","खपली गूळ खोबरेल तेल कुकीज","₹130 / 200 g pack","₹130 / 200 ग्रॅम पॅक","",""],
+          ["Toast / Rusk (Khapli wheat)","टोस्ट / रस्क (खपली गहू)","₹50 / 100 g pack","₹50 / 100 ग्रॅम पॅक","",""],
+          ["Bread (100% Khapli wheat flour)","ब्रेड (१००% खपली गहू पीठ)","₹120 / loaf","₹120 / नग","",""],
+          ["Pizza base (Khapli wheat flour)","पिझ्झा बेस (खपली गहू पीठ)","₹90 / pack of 3","₹90 / 3 नग पॅक","",""],
+          ["Ladi Pav (Khapli wheat flour)","लादी पाव (खपली गहू पीठ)","₹50 / pack of 6","₹50 / 6 नग पॅक","",""],
+          ["Chocolate Cake (Khapli wheat, eggless)","चॉकलेट केक (खपली गहू, अंडयाशिवाय)","₹60 / pack","₹60 / पॅक","Eggless — wheat flour, ghee, cocoa, milk, curd","अंडयाशिवाय — गहू पीठ, तूप, कोको, दूध, दही"]
+        ]},
+        {"head": ["Millets — whole (per 500 g)","तृणधान्ये — संपूर्ण (प्रति 500 ग्रॅम)"],"items": [
+          ["Foxtail millet (Kang / Rala)","फॉक्सटेल मिलेट (कांग / राळा)","₹80","₹80","",""],
+          ["Koda millet (Kodra)","कोडो मिलेट (कोद्रा)","₹80","₹80","",""],
+          ["Barnyard millet (Shamul / Sama)","बार्नयार्ड मिलेट (शामुळ / साम)","₹80","₹80","",""],
+          ["Little millet (Sava / Halvi / Vari)","लिटल मिलेट (सावा / हलवी / वरी)","₹80","₹80","",""],
+          ["Browntop millet (Makra / Murat)","ब्राउनटॉप मिलेट (माकरा / मुरत)","₹120","₹120","",""],
+          ["Finger millet (Nachni)","नाचणी","₹40","₹40","",""]
+        ]},
+        {"head": ["Millet flour — activated (per 500 g)","तृणधान्य पीठ — प्रक्रियायुक्त (प्रति 500 ग्रॅम)"],"items": [
+          ["Foxtail millet flour","फॉक्सटेल मिलेट पीठ","₹100","₹100","",""],
+          ["Koda millet flour","कोडो मिलेट पीठ","₹100","₹100","",""],
+          ["Barnyard millet flour","बार्नयार्ड मिलेट पीठ","₹100","₹100","",""],
+          ["Little millet flour","लिटल मिलेट पीठ","₹100","₹100","",""],
+          ["Finger millet flour (Nachni)","नाचणी पीठ","₹60","₹60","",""]
+        ]},
+        {"head": ["Millet rava — activated (per 500 g)","तृणधान्य रवा — प्रक्रियायुक्त (प्रति 500 ग्रॅम)"],"items": [
+          ["Foxtail millet rava","फॉक्सटेल मिलेट रवा","₹120","₹120","",""],
+          ["Koda millet rava","कोडो मिलेट रवा","₹120","₹120","",""],
+          ["Barnyard millet rava","बार्नयार्ड मिलेट रवा","₹120","₹120","",""],
+          ["Little millet rava","लिटल मिलेट रवा","₹120","₹120","",""]
+        ]},
+        {"head": null,"items": [
+          ["Millet Khakra","मिलेट खाकरा","₹50 / pack","₹50 / पॅक","",""]
+        ]}
       ]
     },
     {
-      "name": [
-        "O'Naturale Farm — Neel & Yash Solanki",
-        "ओ'नॅचुरले फार्म — नील व यश सोलंकी"
-      ],
-      "by": [
-        "Premium natural spices, masalas & herbal teas",
-        "उत्कृष्ट नैसर्गिक मसाले व हर्बल चहा"
-      ],
-      "tags": [
-        ["Spices & masalas","मसाले","value"],
-        ["Herbal teas","हर्बल चहा","value"]
-      ],
-      "order": [
-        "Preorder via form; call/WhatsApp 80104 49188",
-        "फॉर्मद्वारे प्री-ऑर्डर करा; फोन/WhatsApp 80104 49188"
-      ],
+      "name": ["O'Naturale Farm — Neel & Yash Solanki","ओ'नॅचुरले फार्म — नील व यश सोलंकी"],
+      "by": ["Premium natural spices, masalas & herbal teas","उत्कृष्ट नैसर्गिक मसाले व हर्बल चहा"],
+      "tags": [["Spices & masalas","मसाले","value"],["Herbal teas","हर्बल चहा","value"]],
+      "order": ["Preorder via form; call/WhatsApp 80104 49188","फॉर्मद्वारे प्री-ऑर्डर करा; फोन/WhatsApp 80104 49188"],
       "form": "https://forms.gle/kYc3sJn6k27fbTqi7",
       "groups": [
-        {
-          "head": ["New Products","नवीन उत्पादने"],
-          "items": [
-            ["Puliogare (Tamarind Rice) Powder","पुलिओगरे (चिंच भात) पावडर","₹100 / 100 g · ₹250 / 300 g bulk","₹100 / 100 ग्रॅम · ₹250 / 300 ग्रॅम बल्क","",""],
-            ["Shahi Chaat Masala","शाही चाट मसाला","₹150 / 75 g · ₹450 / 250 g bulk","₹150 / 75 ग्रॅम · ₹450 / 250 ग्रॅम बल्क","Restocked!","परत आले!"],
-            ["Dhaniya Seed (Fresh 2026 harvest, MP)","धणे (ताजे 2026 कापणी, मध्य प्रदेश)","₹200 / 500 g · ₹400 / kg","₹200 / 500 ग्रॅम · ₹400 / किलो","",""],
-            ["Jeera (Fresh 2026 harvest, Rajasthan)","जिरे (ताजे 2026 कापणी, राजस्थान)","₹90 / 100 g · ₹400 / 500 g · ₹800 / kg","₹90 / 100 ग्रॅम · ₹400 / 500 ग्रॅम · ₹800 / किलो","",""]
-          ]
-        },
-        {
-          "head": ["Essential Home Spices","घरगुती मसाले"],
-          "items": [
-            ["Lakadong Turmeric Powder","लाकाडोंग हळद पावडर","₹150 / 100 g · ₹500 / 500 g bulk","₹150 / 100 ग्रॅम · ₹500 / 500 ग्रॅम बल्क","Fresh 2026 harvest","ताजी 2026 कापणी"],
-            ["Ing Makhir Ginger Powder","इंग मखीर आले पावडर","₹150 / 100 g · ₹500 / 500 g bulk","₹150 / 100 ग्रॅम · ₹500 / 500 ग्रॅम बल्क","Fresh 2026 harvest","ताजी 2026 कापणी"]
-          ]
-        },
-        {
-          "head": ["Herbal Teas","हर्बल चहा"],
-          "items": [
-            ["Bedtime Blues Herbal Tea","बेडटाइम ब्लूज हर्बल चहा","₹180 / 20 g","₹180 / 20 ग्रॅम","Blue Spice Basil, Butterfly Peas & Chamomile; 20–30 servings","ब्लू स्पाइस बेसिल, बटरफ्लाय पी व कॅमोमाइल; 20–30 कप"],
-            ["Hibiscus Spice Herbal Tea","हिबिस्कस स्पाइस हर्बल चहा","₹180 / 20 g","₹180 / 20 ग्रॅम","Hibiscus, Rose, Blue Spice Basil & spices; 20–30 servings","हिबिस्कस, गुलाब, ब्लू स्पाइस बेसिल व मसाले; 20–30 कप"],
-            ["Stainless Steel Tea Infuser","स्टेनलेस स्टील टी इन्फ्यूझर","₹100 / each","₹100 / नग","Reusable & sustainable","पुनर्वापरयोग्य"]
-          ]
-        },
-        {
-          "head": ["Masala Blends","मसाला मिश्रणे"],
-          "items": [
-            ["Amritsari Chole Masala","अमृतसरी छोले मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["The Perfect Chai Masala","परफेक्ट चहा मसाला","₹150 / 50 g · ₹600 / 250 g bulk","₹150 / 50 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["Pulav & Biryani Masala","पुलाव व बिर्याणी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["Sambar Masala","सांबार मसाला","₹150 / 100 g · ₹350 / 250 g bulk","₹150 / 100 ग्रॅम · ₹350 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["Grandma's Khichdi Masala","आजीचा खिचडी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["Maharani's Sabzi Masala","महाराणीचा सब्जी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["Pav Bhaji Masala","पाव भाजी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["Punjabi Garam Masala","पंजाबी गरम मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
-            ["Chatpata Peri Peri Masala","चटपटा पेरी पेरी मसाला","₹150 / 65 g shaker · ₹450 / 250 g bulk","₹150 / 65 ग्रॅम शेकर · ₹450 / 250 ग्रॅम बल्क","Jain option via preorder","जैन पर्याय प्री-ऑर्डरवर"],
-            ["Idli Chili Podi (Gunpowder Chutney)","इडली चिली पोडी (गनपावडर चटणी)","₹120 / 100 g · ₹300 / 300 g bulk","₹120 / 100 ग्रॅम · ₹300 / 300 ग्रॅम बल्क","",""]
-          ]
-        },
-        {
-          "head": ["Premium Whole Spices","उत्कृष्ट संपूर्ण मसाले"],
-          "items": [
-            ["Forest-grown Clove","जंगली लवंग","₹150 / 50 g · ₹700 / 250 g bulk","₹150 / 50 ग्रॅम · ₹700 / 250 ग्रॅम बल्क","",""],
-            ["Forest-grown Black Pepper","जंगली काळी मिरी","₹150 / 100 g · ₹375 / 250 g bulk","₹150 / 100 ग्रॅम · ₹375 / 250 ग्रॅम बल्क","",""],
-            ["Forest-grown Black Cardamom (Badi Elaichi)","जंगली मोठी वेलदोडी","₹250 / 50 g","₹250 / 50 ग्रॅम","",""],
-            ["Forest-grown Cardamom (Elaichi)","जंगली वेलदोडी","₹300 / 50 g","₹300 / 50 ग्रॅम","",""],
-            ["Forest-grown Star Anise (Chakra Phool)","जंगली चक्रफूल","₹150 / 50 g","₹150 / 50 ग्रॅम","",""],
-            ["Pahadi Tej Patta (Bay Leaf)","पहाडी तेजपत्ता","₹50 / 20 g · ₹200 / 100 g bulk","₹50 / 20 ग्रॅम · ₹200 / 100 ग्रॅम बल्क","",""]
-          ]
-        },
-        {
-          "head": ["Garden Products","बागायती उत्पादने"],
-          "items": [
-            ["Non-hybrid fruit & veg seeds","नैसर्गिक फळ व भाजी बिया","₹100 / packet","₹100 / पॅक","Check www.onaturale.in for full list","संपूर्ण यादीसाठी www.onaturale.in पहा"],
-            ["Natural all-purpose plant fertilizer","नैसर्गिक बहुउद्देशीय खत","₹200 / 200 g","₹200 / 200 ग्रॅम","",""]
-          ]
-        }
+        {"head": ["New Products","नवीन उत्पादने"],"items": [
+          ["Puliogare (Tamarind Rice) Powder","पुलिओगरे (चिंच भात) पावडर","₹100 / 100 g · ₹250 / 300 g bulk","₹100 / 100 ग्रॅम · ₹250 / 300 ग्रॅम बल्क","",""],
+          ["Shahi Chaat Masala","शाही चाट मसाला","₹150 / 75 g · ₹450 / 250 g bulk","₹150 / 75 ग्रॅम · ₹450 / 250 ग्रॅम बल्क","Restocked!","परत आले!"],
+          ["Dhaniya Seed (Fresh 2026 harvest, MP)","धणे (ताजे 2026 कापणी, मध्य प्रदेश)","₹200 / 500 g · ₹400 / kg","₹200 / 500 ग्रॅम · ₹400 / किलो","",""],
+          ["Jeera (Fresh 2026 harvest, Rajasthan)","जिरे (ताजे 2026 कापणी, राजस्थान)","₹90 / 100 g · ₹400 / 500 g · ₹800 / kg","₹90 / 100 ग्रॅम · ₹400 / 500 ग्रॅम · ₹800 / किलो","",""]
+        ]},
+        {"head": ["Essential Home Spices","घरगुती मसाले"],"items": [
+          ["Lakadong Turmeric Powder","लाकाडोंग हळद पावडर","₹150 / 100 g · ₹500 / 500 g bulk","₹150 / 100 ग्रॅम · ₹500 / 500 ग्रॅम बल्क","Fresh 2026 harvest","ताजी 2026 कापणी"],
+          ["Ing Makhir Ginger Powder","इंग मखीर आले पावडर","₹150 / 100 g · ₹500 / 500 g bulk","₹150 / 100 ग्रॅम · ₹500 / 500 ग्रॅम बल्क","Fresh 2026 harvest","ताजी 2026 कापणी"]
+        ]},
+        {"head": ["Herbal Teas","हर्बल चहा"],"items": [
+          ["Bedtime Blues Herbal Tea","बेडटाइम ब्लूज हर्बल चहा","₹180 / 20 g","₹180 / 20 ग्रॅम","Blue Spice Basil, Butterfly Peas & Chamomile; 20–30 servings","ब्लू स्पाइस बेसिल, बटरफ्लाय पी व कॅमोमाइल; 20–30 कप"],
+          ["Hibiscus Spice Herbal Tea","हिबिस्कस स्पाइस हर्बल चहा","₹180 / 20 g","₹180 / 20 ग्रॅम","Hibiscus, Rose, Blue Spice Basil & spices; 20–30 servings","हिबिस्कस, गुलाब, ब्लू स्पाइस बेसिल व मसाले; 20–30 कप"],
+          ["Stainless Steel Tea Infuser","स्टेनलेस स्टील टी इन्फ्यूझर","₹100 / each","₹100 / नग","Reusable & sustainable","पुनर्वापरयोग्य"]
+        ]},
+        {"head": ["Masala Blends","मसाला मिश्रणे"],"items": [
+          ["Amritsari Chole Masala","अमृतसरी छोले मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["The Perfect Chai Masala","परफेक्ट चहा मसाला","₹150 / 50 g · ₹600 / 250 g bulk","₹150 / 50 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["Pulav & Biryani Masala","पुलाव व बिर्याणी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["Sambar Masala","सांबार मसाला","₹150 / 100 g · ₹350 / 250 g bulk","₹150 / 100 ग्रॅम · ₹350 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["Grandma's Khichdi Masala","आजीचा खिचडी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["Maharani's Sabzi Masala","महाराणीचा सब्जी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["Pav Bhaji Masala","पाव भाजी मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["Punjabi Garam Masala","पंजाबी गरम मसाला","₹200 / 75 g · ₹600 / 250 g bulk","₹200 / 75 ग्रॅम · ₹600 / 250 ग्रॅम बल्क","No onion/garlic","कांदा/लसूण नाही"],
+          ["Chatpata Peri Peri Masala","चटपटा पेरी पेरी मसाला","₹150 / 65 g shaker · ₹450 / 250 g bulk","₹150 / 65 ग्रॅम शेकर · ₹450 / 250 ग्रॅम बल्क","Jain option via preorder","जैन पर्याय प्री-ऑर्डरवर"],
+          ["Idli Chili Podi (Gunpowder Chutney)","इडली चिली पोडी (गनपावडर चटणी)","₹120 / 100 g · ₹300 / 300 g bulk","₹120 / 100 ग्रॅम · ₹300 / 300 ग्रॅम बल्क","",""]
+        ]},
+        {"head": ["Premium Whole Spices","उत्कृष्ट संपूर्ण मसाले"],"items": [
+          ["Forest-grown Clove","जंगली लवंग","₹150 / 50 g · ₹700 / 250 g bulk","₹150 / 50 ग्रॅम · ₹700 / 250 ग्रॅम बल्क","",""],
+          ["Forest-grown Black Pepper","जंगली काळी मिरी","₹150 / 100 g · ₹375 / 250 g bulk","₹150 / 100 ग्रॅम · ₹375 / 250 ग्रॅम बल्क","",""],
+          ["Forest-grown Black Cardamom (Badi Elaichi)","जंगली मोठी वेलदोडी","₹250 / 50 g","₹250 / 50 ग्रॅम","",""],
+          ["Forest-grown Cardamom (Elaichi)","जंगली वेलदोडी","₹300 / 50 g","₹300 / 50 ग्रॅम","",""],
+          ["Forest-grown Star Anise (Chakra Phool)","जंगली चक्रफूल","₹150 / 50 g","₹150 / 50 ग्रॅम","",""],
+          ["Pahadi Tej Patta (Bay Leaf)","पहाडी तेजपत्ता","₹50 / 20 g · ₹200 / 100 g bulk","₹50 / 20 ग्रॅम · ₹200 / 100 ग्रॅम बल्क","",""]
+        ]},
+        {"head": ["Garden Products","बागायती उत्पादने"],"items": [
+          ["Non-hybrid fruit & veg seeds","नैसर्गिक फळ व भाजी बिया","₹100 / packet","₹100 / पॅक","Check www.onaturale.in for full list","संपूर्ण यादीसाठी www.onaturale.in पहा"],
+          ["Natural all-purpose plant fertilizer","नैसर्गिक बहुउद्देशीय खत","₹200 / 200 g","₹200 / 200 ग्रॅम","",""]
+        ]}
       ]
     },
     {
-      "name": [
-        "Farmer Tai (Susgaon)",
-        "शेतकरी ताई (सुसगाव)"
-      ],
-      "by": [
-        "Poison-free grains & pulses from her own farm",
-        "स्वतःच्या शेतातील विषमुक्त धान्य व कडधान्ये"
-      ],
-      "tags": [
-        ["Grains & flours","धान्य व पीठे","grain"],
-        ["Vegetables","भाज्या","veg"]
-      ],
-      "order": [
-        "All FCFS — contact personally for orders; minimum 1 kg packs",
-        "सर्व FCFS — ऑर्डरसाठी वैयक्तिक संपर्क करा; किमान १ किलो पाकीट"
-      ],
+      "name": ["Farmer Tai (Susgaon)","शेतकरी ताई (सुसगाव)"],
+      "by": ["Poison-free grains & pulses from her own farm","स्वतःच्या शेतातील विषमुक्त धान्य व कडधान्ये"],
+      "tags": [["Grains & flours","धान्य व पीठे","grain"],["Vegetables","भाज्या","veg"]],
+      "order": ["All FCFS — contact personally for orders; minimum 1 kg packs","सर्व FCFS — ऑर्डरसाठी वैयक्तिक संपर्क करा; किमान १ किलो पाकीट"],
+      "form": "",
+      "groups": [{"head": null,"items": [
+        ["Shriram wheat","श्रीराम गहू","₹65 / kg (5 kg bag)","₹65 / किलो (५ किलो पिशवी)","",""],
+        ["Shriram wheat flour","श्रीराम गहू पीठ","₹190 / 2 kg bag","₹190 / २ किलो पिशवी","",""],
+        ["Gavran jowar","गावरान ज्वारी","₹70 / kg","₹70 / किलो","",""],
+        ["Jowar flour","ज्वारी पीठ","₹100 / kg","₹100 / किलो","",""],
+        ["Wheat sevai (vermicelli)","गहू शेवई","₹130 / 500 g","₹130 / 500 ग्रॅम","",""],
+        ["Matki (moth beans)","मटकी","₹260 / kg","₹260 / किलो","",""],
+        ["Kharodi Kurodi","खारोडी कुरोडी","₹160 / 250 g","₹160 / 250 ग्रॅम","",""],
+        ["Onions (multi-cropping)","कांदे (मल्टी क्रोपिंग)","₹50 / kg","₹50 / किलो","Limited stock","मर्यादित साठा"]
+      ]}]
+    },
+    {
+      "name": ["Santosh Gadade","संतोष गाडदे"],
+      "by": ["Flours, grains & fresh produce","पीठे, धान्य व ताज्या भाज्या"],
+      "tags": [["Grains & flours","धान्य व पीठे","grain"],["Fresh vegetables","ताज्या भाज्या","veg"],["Value-added","मूल्यवर्धित","value"]],
+      "order": ["Order by phone 9960264511 before Friday 2 PM; delivery Sunday 7–8 AM. FCFS.","मोबाईल 9960264511 वर शुक्रवार दुपारी 2 पर्यत ऑर्डर करा; रविवारी सकाळी 7–8 वाजता वितरण. FCFS."],
       "form": "",
       "groups": [
-        {
-          "head": null,
-          "items": [
-            ["Shriram wheat","श्रीराम गहू","₹65 / kg (5 kg bag)","₹65 / किलो (५ किलो पिशवी)","",""],
-            ["Shriram wheat flour","श्रीराम गहू पीठ","₹190 / 2 kg bag","₹190 / २ किलो पिशवी","",""],
-            ["Gavran jowar","गावरान ज्वारी","₹70 / kg","₹70 / किलो","",""],
-            ["Jowar flour","ज्वारी पीठ","₹100 / kg","₹100 / किलो","",""],
-            ["Wheat sevai (vermicelli)","गहू शेवई","₹130 / 500 g","₹130 / 500 ग्रॅम","",""],
-            ["Matki (moth beans)","मटकी","₹260 / kg","₹260 / किलो","",""],
-            ["Kharodi Kurodi","खारोडी कुरोडी","₹160 / 250 g","₹160 / 250 ग्रॅम","",""],
-            ["Onions (multi-cropping)","कांदे (मल्टी क्रोपिंग)","₹50 / kg","₹50 / किलो","Limited stock","मर्यादित साठा"]
-          ]
-        }
+        {"head": ["Flours, Grains & More","पीठे, धान्य व इतर"],"items": [
+          ["Lokwan wheat","लोकवन गहू","₹65 / kg","₹65 / किलो","",""],
+          ["Lokwan wheat flour","लोकवन गहू पीठ","₹95 / kg","₹95 / किलो","",""],
+          ["Bansi wheat","बन्सी गहू","₹80 / kg","₹80 / किलो","",""],
+          ["Bansi wheat flour","बन्सी गहू पीठ","₹110 / kg","₹110 / किलो","",""],
+          ["Jowar flour","ज्वारी पीठ","₹100 / kg","₹100 / किलो","",""],
+          ["Kurdai","कुरडई","₹160 / 250 g","₹160 / 250 ग्रॅम","",""],
+          ["Amboli flour","आंबोळी पीठ","₹110 / 500 g","₹110 / 500 ग्रॅम","",""],
+          ["Cheek powder","चीक पावडर","₹100 / 100 g","₹100 / 100 ग्रॅम","",""],
+          ["Sapit","सपीट","₹45 / 500 g","₹45 / 500 ग्रॅम","",""],
+          ["Kalne flour / Mix Bhakri flour","कळण्याचे पीठ / मिक्स भाकरी पीठ","₹75 / 500 g","₹75 / 500 ग्रॅम","",""],
+          ["Fenugreek seeds (methidana)","मेथी दाणे","₹40 / 100 g","₹40 / 100 ग्रॅम","",""]
+        ]},
+        {"head": ["Fresh Produce","ताजे उत्पादन"],"items": [
+          ["Dodka (ridge gourd)","दोडका","₹30 / 250 g","₹30 / पाव किलो","",""],
+          ["Red pumpkin","लाल भोपळा","₹25 / 250 g","₹25 / पाव किलो","",""],
+          ["Gavran onion","गावरान कांदा","₹50 / kg","₹50 / किलो","",""],
+          ["Konda papad (bran papad)","कोंडा पापड","₹100 / 250 g","₹100 / 250 ग्रॅम","",""],
+          ["Sprouted matki","मोड आलेली मटकी","₹70 / 250 g","₹70 / 250 ग्रॅम","",""],
+          ["Ambadi (roselle greens)","अंबाडी","₹30 / bunch","₹30 / जुडी","FCFS","FCFS"],
+          ["Pudina (mint)","पुदिना","₹25 / bunch","₹25 / जुडी","FCFS","FCFS"],
+          ["Dudhi (bottle gourd)","दुधी भोपळा","₹25 / 250 g","₹25 / पाव किलो","FCFS","FCFS"],
+          ["Garlic","लसूण","₹90 / 250 g","₹90 / पाव किलो","FCFS","FCFS"],
+          ["Gavran cluster beans (gavar)","गावरान गवार","₹40 / 250 g","₹40 / पाव किलो","FCFS","FCFS"],
+          ["Jambhul (Indian blackberry)","जांभूळ","₹100 / 250 g","₹100 / पाव किलो","FCFS","FCFS"],
+          ["Sweet corn","स्वीटकॉर्न मका","₹25 / each","₹25 / नग","FCFS","FCFS"]
+        ]}
       ]
     },
     {
-      "name": [
-        "Santosh Gadade",
-        "संतोष गाडदे"
-      ],
-      "by": [
-        "Flours, grains & fresh produce",
-        "पीठे, धान्य व ताज्या भाज्या"
-      ],
-      "tags": [
-        ["Grains & flours","धान्य व पीठे","grain"],
-        ["Fresh vegetables","ताज्या भाज्या","veg"],
-        ["Value-added","मूल्यवर्धित","value"]
-      ],
-      "order": [
-        "Order by phone 9960264511 before Friday 2 PM; delivery Sunday 7–8 AM. FCFS.",
-        "मोबाईल 9960264511 वर शुक्रवार दुपारी 2 पर्यत ऑर्डर करा; रविवारी सकाळी 7–8 वाजता वितरण. FCFS."
-      ],
+      "name": ["Adim — Dantewada Natural Products","आदिम — दंतेवाडा नैसर्गिक उत्पादने"],
+      "by": ["Aakash Badwe (Dantewada, Chhattisgarh) & Sheetal Sabnis (Pune)","आकाश बडवे (दंतेवाडा, छत्तीसगढ) व शीतल सबनिस (पुणे)"],
+      "tags": [["Rice & millets","तांदूळ व तृणधान्ये","grain"],["Flours & value-added","पीठे व मूल्यवर्धित","value"]],
+      "order": ["All FCFS — Saturday 20 June","सर्व FCFS — शनिवार 20 जून"],
       "form": "",
       "groups": [
-        {
-          "head": ["Flours, Grains & More","पीठे, धान्य व इतर"],
-          "items": [
-            ["Lokwan wheat","लोकवन गहू","₹65 / kg","₹65 / किलो","",""],
-            ["Lokwan wheat flour","लोकवन गहू पीठ","₹95 / kg","₹95 / किलो","",""],
-            ["Bansi wheat","बन्सी गहू","₹80 / kg","₹80 / किलो","",""],
-            ["Bansi wheat flour","बन्सी गहू पीठ","₹110 / kg","₹110 / किलो","",""],
-            ["Jowar flour","ज्वारी पीठ","₹100 / kg","₹100 / किलो","",""],
-            ["Kurdai","कुरडई","₹160 / 250 g","₹160 / 250 ग्रॅम","",""],
-            ["Amboli flour","आंबोळी पीठ","₹110 / 500 g","₹110 / 500 ग्रॅम","",""],
-            ["Cheek powder","चीक पावडर","₹100 / 100 g","₹100 / 100 ग्रॅम","",""],
-            ["Sapit","सपीट","₹45 / 500 g","₹45 / 500 ग्रॅम","",""],
-            ["Kalne flour / Mix Bhakri flour","कळण्याचे पीठ / मिक्स भाकरी पीठ","₹75 / 500 g","₹75 / 500 ग्रॅम","",""],
-            ["Fenugreek seeds (methidana)","मेथी दाणे","₹40 / 100 g","₹40 / 100 ग्रॅम","",""]
-          ]
-        },
-        {
-          "head": ["Fresh Produce","ताजे उत्पादन"],
-          "items": [
-            ["Dodka (ridge gourd)","दोडका","₹30 / 250 g","₹30 / पाव किलो","",""],
-            ["Red pumpkin","लाल भोपळा","₹25 / 250 g","₹25 / पाव किलो","",""],
-            ["Gavran onion","गावरान कांदा","₹50 / kg","₹50 / किलो","",""],
-            ["Konda papad (bran papad)","कोंडा पापड","₹100 / 250 g","₹100 / 250 ग्रॅम","",""],
-            ["Sprouted matki","मोड आलेली मटकी","₹70 / 250 g","₹70 / 250 ग्रॅम","",""],
-            ["Ambadi (roselle greens)","अंबाडी","₹30 / bunch","₹30 / जुडी","FCFS","FCFS"],
-            ["Pudina (mint)","पुदिना","₹25 / bunch","₹25 / जुडी","FCFS","FCFS"],
-            ["Dudhi (bottle gourd)","दुधी भोपळा","₹25 / 250 g","₹25 / पाव किलो","FCFS","FCFS"],
-            ["Garlic","लसूण","₹90 / 250 g","₹90 / पाव किलो","FCFS","FCFS"],
-            ["Gavran cluster beans (gavar)","गावरान गवार","₹40 / 250 g","₹40 / पाव किलो","FCFS","FCFS"],
-            ["Jambhul (Indian blackberry)","जांभूळ","₹100 / 250 g","₹100 / पाव किलो","FCFS","FCFS"],
-            ["Sweet corn","स्वीटकॉर्न मका","₹25 / each","₹25 / नग","FCFS","FCFS"]
-          ]
-        }
+        {"head": ["Flattened Rice (Poha)","पोहे"],"items": [
+          ["Red poha","लाल पोहे","₹130 / kg","₹130 / किलो","",""],
+          ["Brown poha","ब्राऊन पोहे","₹120 / kg","₹120 / किलो","",""]
+        ]},
+        {"head": ["Desi & Aromatic Rice","देशी व सुगंधी तांदूळ"],"items": [
+          ["Javaphul (aromatic)","जावाफुल (सुवासिक)","₹145 / kg","₹145 / किलो","",""],
+          ["Neemful (aromatic)","नीमफुल (सुवासिक)","₹115 / kg","₹115 / किलो","",""],
+          ["Hardi Ghati (idli/dosa rice)","हर्दी घाटी (इडली/डोसा तांदूळ)","₹95 / kg","₹95 / किलो","",""],
+          ["Lokati Machi (aromatic)","लोकटी माची (सुवासिक)","₹185 / kg","₹185 / किलो","",""]
+        ]},
+        {"head": ["Medicinal & Nutritious Rice","औषधी व पोषण वर्धक तांदूळ"],"items": [
+          ["Red rice","लाल तांदूळ","₹105 / kg","₹105 / किलो","",""],
+          ["Desi brown rice","देशी ब्राऊन तांदूळ","₹100 / kg","₹100 / किलो","",""]
+        ]},
+        {"head": ["Nutritious Millets","पौष्टिक तृणधान्ये"],"items": [
+          ["Kodo millet (unpolished)","कोद्रा (बिनपॉलिश)","₹145 / kg","₹145 / किलो","",""],
+          ["Little millet (Varai)","वरई","₹145 / kg","₹145 / किलो","",""],
+          ["Finger millet (Nachni)","नाचणी","₹47 / 500 g","₹47 / 500 ग्रॅम","",""]
+        ]},
+        {"head": ["Flours, Spices & Other","पीठे, मसाले व इतर"],"items": [
+          ["Finger millet flour (Nachni)","नाचणी पीठ","₹57 / 500 g","₹57 / 500 ग्रॅम","",""],
+          ["Rice flour","तांदुळ पीठ","₹42 / 500 g","₹42 / 500 ग्रॅम","",""],
+          ["Whole horse gram (Kulthi)","आख्खे कुळीथ","₹145 / kg","₹145 / किलो","",""],
+          ["Niger seeds (Karle / Raamtil)","कारळे (खुरासणी / रामतील)","₹38 / 200 g","₹38 / 200 ग्रॅम","",""],
+          ["Rosella flower powder (Ambadi)","अंबाडीच्या फुलांची पावडर","₹47 / 100 g","₹47 / 100 ग्रॅम","",""],
+          ["Turmeric powder (Haldi)","हळद पावडर","₹352 / kg","₹352 / किलो","",""]
+        ]}
       ]
+    },
+    {
+      "name": ["Meenakshi Pawar & Manoj Chetri","मीनाक्षी पवार व मनोज चेत्री"],
+      "by": ["",""],
+      "tags": [["Grains & flours","धान्य व पीठे","grain"],["Value-added","मूल्यवर्धित","value"]],
+      "order": ["Contact Manoj: +91 83907 66343","संपर्क मनोज: +91 83907 66343"],
+      "form": "",
+      "groups": [{"head": null,"items": [
+        ["Rice flour (Tandul peeth)","तांदुळ पीठ","₹30 / 250 g","₹30 / पाव किलो","",""],
+        ["Turmeric powder","हळद पावडर","₹100 / 250 g","₹100 / पाव किलो","",""],
+        ["Ginger powder","आले पूड","₹40 / 50 g","₹40 / 50 ग्रॅम","",""],
+        ["Mulberry jam","तूती जॅम","₹250 / 250 g","₹250 / 250 ग्रॅम","",""],
+        ["Harbara dal (Bengal gram)","हरभरा डाळ","₹160 / kg","₹160 / किलो","",""],
+        ["Banana flour","केळ्याचे पीठ","₹60 / 100 g","₹60 / 100 ग्रॅम","",""],
+        ["Green mung (whole)","हिरवे मूग","₹180 / kg","₹180 / किलो","",""],
+        ["Besan (chickpea flour)","बेसन","₹50 / 250 g","₹50 / 250 ग्रॅम","",""]
+      ]}]
+    },
+    {
+      "name": ["H.O.M.E. Biodynamic & R D Naturals","H.O.M.E. बायोडायनामिक व R D नॅचुरल्स"],
+      "by": ["Kiran Kotulkar & Ashish K · Dipankar & Jyotsna Chowdhury — Belaj, Tal Mawal, Pune","किरण कोतुलकर व आशिष के · दीपंकर व ज्योत्स्ना चौधरी — बेलज, ता. मावळ, पुणे"],
+      "tags": [["Grains","धान्य","grain"],["Dairy & value-added","डेअरी व मूल्यवर्धित","value"]],
+      "order": ["All FCFS — Saturday 20 June. Milk products (other than ghee) need immediate refrigeration.","सर्व FCFS — शनिवार 20 जून. तूप वगळता दुग्धजन्य पदार्थांसाठी त्वरित थंड करणे आवश्यक."],
+      "form": "",
+      "groups": [
+        {"head": ["Grains","धान्य"],"items": [
+          ["Sonamoti wheat","सोनामोती गहू","₹100 / kg","₹100 / किलो","",""]
+        ]},
+        {"head": ["A2 Dairy (Desi Gir & Sahiwal cows)","A2 डेअरी (देशी गीर व साहिवाल गाय)"],"items": [
+          ["A2 Milk","A2 दूध","₹100 / L","₹100 / लिटर","",""],
+          ["A2 Curds","A2 दही","₹160 / kg","₹160 / किलो","",""],
+          ["A2 Masala Buttermilk","A2 मसाला ताक","₹100 / L","₹100 / लिटर","",""],
+          ["A2 Paneer","A2 पनीर","₹680 / kg","₹680 / किलो","",""],
+          ["A2 Butter","A2 लोणी","₹2600 / kg","₹2600 / किलो","",""],
+          ["A2 Ghee","A2 तूप","₹2800 / L","₹2800 / लिटर","",""]
+        ]}
+      ]
+    },
+    {
+      "name": ["Mahendra Bagal — Gurudutt Farm","महेंद्र बागल — गुरुदत्त फार्म"],
+      "by": ["SPNF natural farming, Pune","SPNF नैसर्गिक शेती, पुणे"],
+      "tags": [["Vegetables & fruit","भाज्या व फळे","veg"],["Grains","धान्य","grain"],["Value-added","मूल्यवर्धित","value"]],
+      "order": ["All FCFS — Saturday 20 June","सर्व FCFS — शनिवार 20 जून"],
+      "form": "",
+      "groups": [{"head": null,"items": [
+        ["Gavran bananas","गावरान केळी","₹100 / kg","₹100 / किलो","",""],
+        ["Jaggery","गूळ","₹110 / block","₹110 / ढेप","",""],
+        ["Peanut jaggery bar","शेंगदाणा गूळ पट्टी","₹70 / 200 g","₹70 / 200 ग्रॅम","",""],
+        ["Khapli wheat","खपली गहू","₹120 / kg","₹120 / किलो","",""],
+        ["Cucumber (Kakdi)","काकडी","₹25 / 250 g","₹25 / पाव किलो","",""],
+        ["Dodka (ridge gourd)","दोडका","₹25 / 250 g","₹25 / पाव किलो","",""]
+      ]}]
+    },
+    {
+      "name": ["Venkatesh Bobde Dada","वेंकटेश बोबडे दादा"],
+      "by": ["Londhewadi, Madha, Solapur — naturally grown, chemical-free","लोंढेवाडी, माढा, सोलापूर — नैसर्गिक, रसायनमुक्त शेती"],
+      "tags": [["Vegetables","भाज्या","veg"],["Grains & pulses","धान्य व कडधान्ये","grain"],["Value-added","मूल्यवर्धित","value"]],
+      "order": ["Contact: 7796721204","संपर्क: 7796721204"],
+      "form": "",
+      "groups": [{"head": null,"items": [
+        ["Tur dal (pigeon pea)","तूर डाळ","₹200 / kg","₹200 / किलो","",""],
+        ["Mango pickle (Mathatal)","मठातल आंब्याचं लोणचं","₹150 / 250 g","₹150 / 250 ग्रॅम","",""],
+        ["Kohala (ash gourd)","कोहळा","₹25 / 250 g","₹25 / पाव किलो","",""],
+        ["Red pumpkin","लाल भोपळा","₹25 / 250 g","₹25 / पाव किलो","",""],
+        ["Dodka (ridge gourd)","दोडक","₹30 / 250 g","₹30 / पाव किलो","",""],
+        ["Cabbage","कोबी","₹25 / 250 g","₹25 / पाव किलो","",""],
+        ["Dudhi (bottle gourd)","दुधी भोपळा","₹25 / 250 g","₹25 / पाव किलो","",""],
+        ["Drumstick (Shevga)","शेवगा","₹30 / 250 g","₹30 / पाव किलो","",""],
+        ["White onion","पांढरा कांदा","₹60 / kg","₹60 / किलो","",""],
+        ["Papaya","पपई","₹60 / kg","₹60 / किलो","",""],
+        ["Turmeric","हळद","₹100 / 250 g","₹100 / 250 ग्रॅम","From Kiran Jamdade dada","किरण जमदाडे दादा यांच्याकडून"]
+      ]}]
     }
   ]
 }
